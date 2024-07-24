@@ -4,7 +4,7 @@ I’m a passionate developer focused on creating software solutions tailored to 
 
 - 🌱 I’m currently learning: Django, PostgreSQL ...
 - 💞️ Looking to collaborate in a team that solves complex problems with simple solutions.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jose-luis-bravo-carrillo-desarrollador-fullstack/)
 
 ### 📊 GitHub Stats
 
