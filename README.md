@@ -47,7 +47,7 @@ Here are some of the projects I've been working on:
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/jose-luis-bravo-carrillo-desarrollador-fullstack/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/jose-luis-bravo-carrillo-desarrollador-fullstack/))
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/impacevanend)
 
 <!---
