@@ -36,14 +36,14 @@ I’m a passionate developer focused on creating software solutions tailored to 
 ### 🛠️ Projects
 
 Here are some of the projects I've been working on:
-- **SpringBoot**: [SpringBoot Project](https://github.com/impacevanend/springboot-project)
-- **Django**: [Django Project](https://github.com/impacevanend/django-project)
-- **Laravel**: [Laravel Project](https://github.com/impacevanend/laravel-project)
-- **Python**: [Python Project](https://github.com/impacevanend/python-project)
-- **JavaScript**: [JavaScript Project](https://github.com/impacevanend/javascript-project)
-- **Angular**: [Angular Project](https://github.com/impacevanend/angular-project)
-- **PHP**: [PHP Project](https://github.com/impacevanend/php-project)
-- **Bootstrap**: [Bootstrap Project](https://github.com/impacevanend/bootstrap-project)
+- **SpringBoot**: [SpringBoot Project](https://github.com/impacevanend/SpringMicroservice)
+- **Django**: [Django Project](https://github.com/impacevanend/dint)
+- **Laravel**: [Laravel Project](https://github.com/impacevanend/proyectoLarable)
+- **Python**: [Python Project](https://github.com/impacevanend/ascii-maze-runner)
+- **JavaScript**: [JavaScript Project](https://github.com/impacevanend/fullpSF)
+- **Angular**: [Angular Project](https://github.com/impacevanend/fullpSFt)
+- **PHP**: [PHP Project](https://github.com/impacevanend/MORITASTORE)
+- **Bootstrap**: [Bootstrap Project](https://github.com/impacevanend/MORITASTORE)
 
 ### 🌐 Connect with me:
 
