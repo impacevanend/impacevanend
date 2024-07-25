@@ -48,7 +48,7 @@ Here are some of the projects I've been working on:
 ### 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jose-luis-bravo-carrillo-desarrollador-fullstack/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/impacevanend)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/impacevanend/impacevanend/blob/main/README.md)
 
 <!---
 impacevanend/impacevanend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
