@@ -1,15 +1,22 @@
-### 👋 Hi, I’m @impacevanend
+<!-- Inicia el encabezado del perfil -->
+<h1 align="center">👋 Hi, I’m @impacevanend</h1>
 
-I’m a passionate developer focused on creating software solutions tailored to client needs through interdisciplinary teamwork. I’m constantly learning and currently diving deeper into Django and PostgreSQL.
+<p align="center">
+  <em>I’m a passionate developer focused on creating software solutions tailored to client needs through interdisciplinary teamwork. I’m constantly learning and currently diving deeper into Django and PostgreSQL.</em>
+</p>
 
-- 🌱 I’m currently learning: Django, PostgreSQL ...
-- 💞️ Looking to collaborate in a team that solves complex problems with simple solutions.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jose-luis-bravo-carrillo-desarrollador-fullstack/)
+<p align="center">
+  🌱 I’m currently learning: Django, PostgreSQL ...
+  <br>
+  💞️ Looking to collaborate in a team that solves complex problems with simple solutions.
+  <br>
+  📫 How to reach me: <a href="https://www.linkedin.com/in/jose-luis-bravo-carrillo-desarrollador-fullstack/">LinkedIn</a>
+</p>
 
----
+<hr>
 
-### 📊 GitHub Stats
-
+<!-- Estadísticas de GitHub -->
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <a href="https://github.com/impacevanend">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=impacevanend&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
@@ -17,11 +24,11 @@ I’m a passionate developer focused on creating software solutions tailored to 
   </a>
 </div>
 
----
+<hr>
 
-### 🔧 Technologies & Tools
-
-<div align="center">
+<!-- Tecnologías y herramientas -->
+<h2 align="center">🔧 Technologies & Tools</h2>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="SpringBoot" width="40px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40px" style="margin: 10px;"/>
@@ -32,30 +39,31 @@ I’m a passionate developer focused on creating software solutions tailored to 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40px" style="margin: 10px;"/>
-</div>
+</p>
 
----
+<hr>
 
-### 🛠️ Projects
+<!-- Proyectos -->
+<h2 align="center">🛠️ Projects</h2>
+<ul>
+  <li><strong>SpringBoot:</strong> <a href="https://github.com/impacevanend/SpringMicroservice">SpringBoot Project</a></li>
+  <li><strong>Django:</strong> <a href="https://github.com/impacevanend/dint">Django Project</a></li>
+  <li><strong>Laravel:</strong> <a href="https://github.com/impacevanend/proyectoLarable">Laravel Project</a></li>
+  <li><strong>Python:</strong> <a href="https://github.com/impacevanend/ascii-maze-runner">Python Project</a></li>
+  <li><strong>JavaScript:</strong> <a href="https://github.com/impacevanend/fullpSF">JavaScript Project</a></li>
+  <li><strong>Angular:</strong> <a href="https://github.com/impacevanend/fullpSFt">Angular Project</a></li>
+  <li><strong>PHP:</strong> <a href="https://github.com/impacevanend/MORITASTORE">PHP Project</a></li>
+  <li><strong>Bootstrap:</strong> <a href="https://github.com/impacevanend/MORITASTORE">Bootstrap Project</a></li>
+</ul>
 
-Here are some of the projects I've been working on:
-- **SpringBoot**: [SpringBoot Project](https://github.com/impacevanend/SpringMicroservice)
-- **Django**: [Django Project](https://github.com/impacevanend/dint)
-- **Laravel**: [Laravel Project](https://github.com/impacevanend/proyectoLarable)
-- **Python**: [Python Project](https://github.com/impacevanend/ascii-maze-runner)
-- **JavaScript**: [JavaScript Project](https://github.com/impacevanend/fullpSF)
-- **Angular**: [Angular Project](https://github.com/impacevanend/fullpSFt)
-- **PHP**: [PHP Project](https://github.com/impacevanend/MORITASTORE)
-- **Bootstrap**: [Bootstrap Project](https://github.com/impacevanend/MORITASTORE)
+<hr>
 
----
-
-### 🌐 Connect with me:
-
-<div align="center">
+<!-- Conectar -->
+<h2 align="center">🌐 Connect with me</h2>
+<p align="center">
   <a href="https://www.linkedin.com/in/jose-luis-bravo-carrillo-desarrollador-fullstack/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn"></a>
   <a href="https://github.com/impacevanend/impacevanend/blob/main/README.md"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black" alt="GitHub"></a>
-</div>
+</p>
 
 <div align="center">
   <a href="https://github.com/impacevanend">
