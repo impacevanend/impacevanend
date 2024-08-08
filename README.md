@@ -30,7 +30,7 @@ I’m a passionate developer focused on creating software solutions tailored to 
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 
 </div>
-
+<br>
 ### 🛠️ Projects
 
 Here are some of the projects I've been working on:
